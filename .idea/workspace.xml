@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc6251e6-f5ea-4425-be39-aea26e89c453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/stock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/stock.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -62,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -400,18 +395,18 @@
       <workItem from="1544711477562" duration="4460000" />
       <workItem from="1544780839372" duration="3390000" />
       <workItem from="1544784516463" duration="20000" />
-      <workItem from="1544784896660" duration="3775000" />
+      <workItem from="1544784896660" duration="4729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11645000" />
+    <option name="totallyTimeSpent" value="12599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1301" y="23" width="1259" height="1336" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946523" visible="true" weight="0.2580115" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49946523" visible="true" weight="0.2580115" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5005348" side_tool="true" weight="0.24943988" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -423,7 +418,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23423423" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23423423" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32923833" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
@@ -624,8 +619,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

@@ -14,7 +14,7 @@ class StocksController < ApplicationController
       flash[:danger] = "You have entered an empty search string"
       redirect_to my_portfolio_path
     end
-
   end
-
 end
+
+
